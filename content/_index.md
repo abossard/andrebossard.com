@@ -8,4 +8,4 @@ draft: false
 # Heading
 This is sample content
 
-Thanks, yes
+Thanks, yes no
