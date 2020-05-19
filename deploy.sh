@@ -11,6 +11,9 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 # Go To Public folder
 cd public
 
+git config --global user.email "abossard@gmail.com"
+git config --global user.name "Andre Bossard"
+
 # Add changes to git.
 git add .
 
