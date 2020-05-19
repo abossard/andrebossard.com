@@ -1,0 +1,12 @@
+name = "Andre Bossard Theme"
+license = "MIT"
+licenselink = "https://github.com/abossard/andrebossard/blob/master/LICENSE"
+description = ""
+homepage = "https://andrebossard.com/"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "Andre Bossard"
+  homepage = "andrebossard.com"

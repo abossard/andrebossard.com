@@ -1,0 +1,8 @@
+baseURL = "https://andrebossard.com/"
+languageCode = "en-us"
+title = "andrebossard.com"
+theme = "andrebossard"
+googleAnalytics = "UA-578294-7"
+[params]
+    description = "Andre Bossard 2020"
+
