@@ -10,7 +10,13 @@ cd public
 git config --global user.email "abossard@gmail.com"
 git config --global user.name "Andre Bossard"
 
+cat index.html
+
+git status
+
 git add .
+
+git status
 
 # Commit changes.
 msg="rebuilding site $(date)"
