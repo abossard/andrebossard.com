@@ -7,6 +7,8 @@ hugo
 # Go To Public folder
 cd public
 
+git checkout master
+
 git config --global user.email "abossard@gmail.com"
 git config --global user.name "Andre Bossard"
 
