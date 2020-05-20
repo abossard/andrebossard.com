@@ -1,0 +1,15 @@
+.gist .gist-file {
+    border-color: transparent !important;
+}
+
+tr:nth-child(2n) {
+    background: transparent !important;
+}
+
+.gist .gist-meta {
+    background-color: black !important;
+}
+
+.gist .blob-wrapper {
+    scrollbar-color: black #333;
+}

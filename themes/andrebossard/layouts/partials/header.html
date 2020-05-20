@@ -1,0 +1,9 @@
+<header>
+    <h1>andrebossard.com</h1>
+    <nav>
+        <a href="/">Home</a> 
+        {{ range .Site.Menus.main }}
+        / <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
+    </nav>
+</header>
