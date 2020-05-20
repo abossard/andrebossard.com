@@ -30,7 +30,7 @@ jobs:
       with:
         extended: true
     - name: deploy
-      run: hugo --minify
+      run: hugo --minify --verbose -d public
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
