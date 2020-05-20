@@ -1,1 +1,1 @@
-![CI](https://github.com/abossard/andrebossard.com/workflows/CI/badge.svg)
+# abossard.github.io
