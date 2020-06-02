@@ -2,7 +2,7 @@ backend:
   name: github
   branch: master
   repo: abossard/andrebossard.com
-  site_domain: cms.netlify.com
+  site_domain: andrebossard.com
   base_url: https://api.netlify.com
   auth_endpoint: auth
 media_folder: static/img
