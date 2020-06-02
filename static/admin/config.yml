@@ -3,7 +3,7 @@ backend:
   branch: master
   repo: abossard/andrebossard.com
   site_domain: andrebossard.com
-  base_url: https://api.netlify.com
+  base_url: https://andrebossardgh.herokuapp.com
   auth_endpoint: auth
 media_folder: static/img
 public_folder: /img
